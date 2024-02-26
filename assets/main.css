@@ -10,8 +10,8 @@ body {
 }
 
 #game {
-    transform: scale(1.5);
-    transform-origin: top center;
+    /* transform: scale(1.5);
+    transform-origin: top center; */
     max-width: 500px;
     max-height: 400px; 
     background-color: #ffffff;
